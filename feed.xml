@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>TesterGadungan</title>
+    <link href="https://testergadungan.github.io/feed.xml" rel="self" />
+    <link href="https://testergadungan.github.io" />
+    <updated>2019-02-04T23:21:43+07:00</updated>
+    <author>
+        <name>FachrulCh</name>
+    </author>
+    <id>https://testergadungan.github.io</id>
+
+    <entry>
+        <title>Pertamax gan</title>
+        <author>
+            <name>FachrulCh</name>
+        </author>
+        <link href="https://testergadungan.github.io/pertamax-gan.html"/>
+        <id>https://testergadungan.github.io/pertamax-gan.html</id>
+            <category term="test"/>
+
+        <updated>2019-02-04T22:54:03+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://testergadungan.github.io/media/posts/1/medal_393165.png" alt="medali" />
+                    Mencoba aplikasi static blog dengan Publii https://getpublii.com/ Link youtube https://www.youtube.com/watch?v=XW1qOApu2D0 Embed: Insert gambar: 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://testergadungan.github.io/media/posts/1/medal_393165.png" alt="medali" />
+                <p>Mencoba aplikasi static blog dengan Publii <a href="https://getpublii.com/">https://getpublii.com/</a> </p>
+<p>Link youtube</p>
+<p><a href="https://www.youtube.com/watch?v=XW1qOApu2D0">https://www.youtube.com/watch?v=XW1qOApu2D0</a></p>
+<p>Embed:</p>
+<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/XW1qOApu2D0" allowfullscreen="allowfullscreen" ></iframe></figure>
+<p>Insert gambar:</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://testergadungan.github.io/media/posts/1/gallery/medal_393165.png" ><img src="https://testergadungan.github.io/media/posts/1/gallery/medal_393165-thumbnail.png" alt="medali" width="240" height="240"></a>
+<figcaption class="gallery-description">medali</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://testergadungan.github.io/media/posts/1/gallery/star.png" ><img src="https://testergadungan.github.io/media/posts/1/gallery/star-thumbnail.png" alt="bintang" width="240" height="240"></a>
+<figcaption class="gallery-description">bintang</figcaption>
+</figure>
+</div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
