@@ -5,10 +5,26 @@
     "home_page_url": "https://testergadungan.github.io",
     "feed_url": "https://testergadungan.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://testergadungan.github.io/media/website/tester-gadungan-icon.png",
     "author": {
         "name": "FachrulCh"
     },
     "items": [
+        {
+            "id": "https://testergadungan.github.io/post-kdua.html",
+            "url": "https://testergadungan.github.io/post-kdua.html",
+            "title": "Post kdua",
+            "summary": "https://github.com/testergadungan/testergadungan.github.io.git",
+            "content_html": "https://github.com/testergadungan/testergadungan.github.io.git",
+            "image": "https://testergadungan.github.io/media/posts/2/",
+            "author": {
+                "name": "FachrulCh"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-02-04T23:42:50+07:00",
+            "date_modified": "2019-02-04T23:42:50+07:00"
+        },
         {
             "id": "https://testergadungan.github.io/pertamax-gan.html",
             "url": "https://testergadungan.github.io/pertamax-gan.html",

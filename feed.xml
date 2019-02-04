@@ -3,12 +3,34 @@
     <title>TesterGadungan</title>
     <link href="https://testergadungan.github.io/feed.xml" rel="self" />
     <link href="https://testergadungan.github.io" />
-    <updated>2019-02-04T23:34:10+07:00</updated>
+    <updated>2019-02-04T23:43:26+07:00</updated>
     <author>
         <name>FachrulCh</name>
     </author>
     <id>https://testergadungan.github.io</id>
 
+    <entry>
+        <title>Post kdua</title>
+        <author>
+            <name>FachrulCh</name>
+        </author>
+        <link href="https://testergadungan.github.io/post-kdua.html"/>
+        <id>https://testergadungan.github.io/post-kdua.html</id>
+
+        <updated>2019-02-04T23:42:50+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://testergadungan.github.io/media/posts/2/" alt="" />
+                    https://github.com/testergadungan/testergadungan.github.io.git
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://testergadungan.github.io/media/posts/2/" alt="" />
+                https://github.com/testergadungan/testergadungan.github.io.git
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Pertamax gan</title>
         <author>
